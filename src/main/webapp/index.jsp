@@ -4,7 +4,7 @@
 </head>
 <body style="text-align: center">
 <h1 style="color:pink;font-size:40px;">BEST FRIENDS</h1>
-<img src="IMG_202220617_130509.jpg">
+<img src="NTR.jpg">
 
 <h2>  Instance master branch !hari!</h2>
 
